@@ -42,7 +42,7 @@ Use a white or light-gray canvas, dark charcoal text, and teal accents. Keep KPI
 - Markdown documentation
 
 ## Author
-Advait Pratap Singh
+Ayushri Khare
 
 ## Limitations
 This repository currently contains a Tableau-ready dataset and project documentation, not a packaged Tableau workbook (`.twbx`). The sample values are synthetic. Add a workbook after building and validating the dashboards in Tableau.
