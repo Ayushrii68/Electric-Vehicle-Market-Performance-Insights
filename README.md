@@ -1,5 +1,3 @@
-# Electric-Vehicle-Market-Performance-Insights
-
 EV Market Analysis — Tableau
 A portfolio project exploring electric-vehicle (EV) market patterns through a Tableau-ready sample dataset and dashboard documentation.
 > **Data note:** `data/ev_market_data.csv` is synthetic sample data created for demonstration and dashboard development. It is not official market data and should not be cited as real-world sales or market share.
@@ -35,6 +33,6 @@ Tableau Desktop / Tableau Public
 CSV data
 Markdown documentation
 Author
-Advait Pratap Singh
+Ayushri Khare
 Limitations
 This repository currently contains a Tableau-ready dataset and project documentation, not a packaged Tableau workbook (`.twbx`). The sample values are synthetic. Add a workbook after building and validating the dashboards in Tableau.
